@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "VinnXiter",
+  "author": "SokFunENT",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -71,9 +71,9 @@
     "user-agents": "^1.1.279",
     "util": "^0.12.4",
     "yargs": "^17.2.1",
-    "youtube-yts": "^2.0.0",
-    "youtubedl-core": "^4.11.4",
-    "yt-search": "^2.10.2",
+    "youtube-yts": 
+    "youtubedl-core": 
+    "yt-search": 
     "ytdl-core": "^4.11.0"
   }
 }
